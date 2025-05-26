@@ -1,17 +1,29 @@
-# Olá ; Developers/ >!!
+# Olá, eu sou Felipe Antunes Campos! 👋
 
-Sou Felipe Antunes Campos, um entusiasta da tecnologia com grande interesse em JavaScript, Python, C# e SQL. Atualmente, estou focado em aprofundar meus conhecimentos em JavaScript e SQL.
+Bem-vindo ao meu perfil do GitHub!  
+Aqui você encontrará projetos e contribuições nas seguintes linguagens:
 
-## Sobre Mim
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
-🌱 Atualmente estou em processo contínuo de aprendizado, com foco em JavaScript e SQL.
-💻 Exploro ativamente as possibilidades e aplicações de JavaScript, Python, C# e SQL em diversos projetos.
-🎯 Meu objetivo é construir uma base sólida em desenvolvimento e expandir minhas habilidades continuamente no mundo da tecnologia.
+## Sobre mim
 
-### Skills
+- 🧑‍💻 Desenvolvedor apaixonado por tecnologia e inovação.
+- 💡 Sempre em busca de novos desafios e aprendizados.
+- 🚀 Compartilhando conhecimento e projetos open source.
 
-["JavaScript", "SQL"] // Em aprendizado
-["Python", "C#"] // Interesse
-📫 Como me encontrar: Envie uma mensagem!
-😄 Pronomes: Ele/dele
-⚡ Curiosidade: Tenho um grande foco em aprender e adquirir novos conhecimentos.
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin)
+- [E-mail](mailto:seu-email@dominio.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAntunesCampos&show_icons=true&theme=github_dark" />
+</div>
