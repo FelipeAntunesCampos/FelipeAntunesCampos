@@ -1,7 +1,9 @@
 # Olá, eu sou o Felipe! 👋
 
 <div align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&width=600&lines=Full+Stack+Developer;Transformando+café+em+código+☕;Performance+e+Design+✨" alt="Typing Animation" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95;Performance+e+Design+%E2%9C%A8" alt="Typing Animation" />
+</p>
 </div>
 
 ---
