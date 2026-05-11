@@ -51,15 +51,14 @@ Atualmente explorando o poder do ecossistema **.NET** e **JavaScript** para reso
 
 ## 📊 Estatísticas & Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAntunesCampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAntunesCampos&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAntunesCampos&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAntunesCampos&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=merko" alt="GitHub Streak" />
+</p>
 ---
 
 ## 💡 Filosofia de Desenvolvimento
