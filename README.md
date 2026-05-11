@@ -52,12 +52,15 @@ Atualmente explorando o poder do ecossistema **.NET** e **JavaScript** para reso
 ## 📊 Estatísticas & Atividade
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeAntunesCampos&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAntunesCampos&layout=compact&langs_count=8&theme=merko" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeAntunesCampos&show_icons=true&theme=neon&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=merko" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAntunesCampos&layout=compact&langs_count=8&theme=neon" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=neon" alt="Sequência de contribuições" />
 </p>
 ---
 
