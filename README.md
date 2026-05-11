@@ -60,7 +60,7 @@ Atualmente explorando o poder do ecossistema **.NET** e **JavaScript** para reso
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeAntunesCampos&theme=neon" alt="Sequência de contribuições" />
 </p>
 ---
 
